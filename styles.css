@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+    font-weight: lighter;
+    margin-bottom: -6px;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    width: 305px;
+}
+
+.layout {
+    display: flex;
+    width: 875px;
+    margin: 0 auto;
+    justify-content: space-between;
+    border: 2px solid black;
+    padding: 5px 20px 30px 20px;
+}
+
+.breadcrumb {
+    color: #565959;
+    font-size: 12px;
+    margin-top: 22px;
+    margin-bottom: 8px;
+}
+
+.ratings-img {
+    width: 120px;
+    margin-top: -5px;
+}
+
+.metadata {
+    width: 540px;
+}
+
+.hook {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.margin-bottom {
+    margin-bottom: -5px;
+}
+
+.link {
+    color: #007185;
+}
